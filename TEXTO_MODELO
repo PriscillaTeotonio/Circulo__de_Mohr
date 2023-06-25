@@ -13,7 +13,7 @@ tan2&theta;p = (2*&tau;xy)/(&sigma;x - &sigma;y)
 
 O estado de tensão em um ponto é mostrado no elemento. Determinar as tensões principais.
 <br>
-<img src="Imagem exemplo tensões principais .png">
+<img src="Imagem-exemplo-tensões-principais-.jpg">
 <br>
 De acordo com a imagem temos que: 
 <br>
@@ -37,7 +37,8 @@ Então aplicando nas equações conseguimos obter as tensões principais:
 &sigma;2 =
 <br>
 <br>
-
-
 tan2&theta;p = (2*&tau;xy)/(&sigma;x - &sigma;y)
-
+<br>
+tan2&theta;p = (2*30)/(45 - (-60))
+<br>
+&theta;p =
