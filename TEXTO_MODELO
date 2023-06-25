@@ -12,10 +12,8 @@ tan2&theta;p = (2*&tau;xy)/(&sigma;x - &sigma;y)
 <h3>Exemplo</h3>
 
 O estado de tensão em um ponto é mostrado no elemento. Determinar as tensões principais.
-
-
-<img src="Imagem exemplo tensões principais .png">
 <br>
+<img src="Imagem exemplo tensões principais .png">
 <br>
 De acordo com a imagem temos que: 
 <br>
@@ -25,4 +23,21 @@ De acordo com a imagem temos que:
 &sigma;y = -60 MPa;
 <br>
 &tau;xy  = 30 MPa; 
+<br>
+<br>
+Então aplicando nas equações conseguimos obter as tensões principais: 
+<br>
+<br>
+&sigma;1,2 = (&sigma;x + &sigma;y)/2 &plusmn; &radic;((((&sigma;x - &sigma;y)/2)^2)+ (&tau;xy^2))
+<br>
+&sigma;1,2 = (45 + (-60))/2 &plusmn; &radic;(((((45 - (-60)))/2)^2)+ (30^2))
+<br>
+&sigma;1 =
+<br>
+&sigma;2 =
+<br>
+<br>
+
+
+tan2&theta;p = (2*&tau;xy)/(&sigma;x - &sigma;y)
 
