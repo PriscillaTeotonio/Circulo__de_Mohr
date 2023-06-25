@@ -1,1 +1,11 @@
-<title>Título incrível</title>
+<h1>Círculo de Mohr</h1>
+
+<h2>Tensões principais</h2>
+
+<p>As tensões principais são obtidas pelas seguintes equações:</p>
+
+&sigma;1,2 = (&sigma;x + &sigma;y)/2 &plusmn; &radic;((((&sigma;x - &sigma;y)/2)^2)+ (&tau;xy^2))
+<br>
+<br>
+tan2&theta;p = (2*&tau;xy)/(&sigma;x - &sigma;y)
+
