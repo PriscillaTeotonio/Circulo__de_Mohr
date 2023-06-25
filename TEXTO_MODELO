@@ -15,5 +15,14 @@ O estado de tensão em um ponto é mostrado no elemento. Determinar as tensões 
 
 
 <img src="Imagem exemplo tensões principais .png">
-
+<br>
+<br>
+De acordo com a imagem temos que: 
+<br>
+<br>
+&sigma;x = 45 MPa;
+<br>
+&sigma;y = -60 MPa;
+<br>
+&tau;xy  = 30 MPa; 
 
